@@ -1,10 +1,10 @@
 <aside>
 ☑️ **Navigation**
 
-- [ ]  Din webbplats ska bestå av minst fem (5) olika sidor som besökaren kan navigera mellan
-- [ ]  Du ska ha en meny där användaren kan ta sig runt till alla olika undersidor
-- [ ]  Det ska från alla dina sidor gå att komma åt alla andra sidor och det ska vara en konsekvent meny (dvs inte olika menyer/navigation) på de olika sidorna
-- [ ]  I menyn ska det synas vilken sida man som besökare är på
+- [x]  Din webbplats ska bestå av minst fem (5) olika sidor som besökaren kan navigera mellan
+- [x]  Du ska ha en meny där användaren kan ta sig runt till alla olika undersidor
+- [x]  Det ska från alla dina sidor gå att komma åt alla andra sidor och det ska vara en konsekvent meny (dvs inte olika menyer/navigation) på de olika sidorna
+- [x]  I menyn ska det synas vilken sida man som besökare är på
 </aside>
 
 <aside>
